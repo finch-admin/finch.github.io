@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Finch Server Project
 
 You can use the [editor on GitHub](https://github.com/finch-admin/finch.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
